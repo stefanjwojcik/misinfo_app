@@ -4,5 +4,6 @@ WORKDIR /app
 
 COPY ./ /app
 EXPOSE 8760
-RUN julia -e 'using Pkg; Pkg.activate("."); Pkg.add("Stipple"); include("src/app.jl");'
+RUN julia -e 'using Pkg; Pkg.activate("."); Pkg.add("Stipple");'
 
+CMD julia -e 'using Pkg; Pkg.instantiate(); include("src/app.jl");'
