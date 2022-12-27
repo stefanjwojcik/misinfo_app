@@ -15,4 +15,4 @@ ENV GENIE_ENV "prod"
 RUN julia -e 'using Pkg; Pkg.activate("."); Pkg.add("Stipple"); Pkg.precompile()'
 
 
-CMD julia -e 'using Pkg; Pkg.instantiate(); include("src/app.jl");'
+CMD julia --project -e 'using Pkg; Pkg.instantiate(); include("src/app.jl");'
