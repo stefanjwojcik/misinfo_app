@@ -24,4 +24,4 @@ route("/") do
   html(ui(model), context = @__MODULE__)
 end
 
-up(7860) # or `up(open_browser = true)` to automatically open a browser window/tab when launching the app
+up() # or `up(open_browser = true)` to automatically open a browser window/tab when launching the app
