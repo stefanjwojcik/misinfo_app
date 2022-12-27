@@ -2,7 +2,7 @@ module App
 using Stipple
 
 @reactive mutable struct Name <: ReactiveModel
-  name::R{String} = "World!"
+  name::R{String} = "World"
 end
 
 function ui(model)
@@ -10,7 +10,7 @@ function ui(model)
       h1([
         "Hello "
         span("", @text(:name))
-        "from Genie.jl!"
+        " from Genie.jl!"
       ])
 
       p([
