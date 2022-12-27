@@ -1,7 +1,7 @@
 FROM julia:1.8
 
-
-
+RUN useradd --create-home --shell /bin/bash genie
+RUN mkdir /home/genie/app
 COPY . /home/genie/app
 WORKDIR /home/genie/app
 RUN chown -R genie:genie /home/
