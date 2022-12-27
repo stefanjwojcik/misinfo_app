@@ -10,6 +10,7 @@ function ui(model)
       h1([
         "Hello "
         span("", @text(:name))
+        "from Genie.jl!"
       ])
 
       p([
