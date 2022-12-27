@@ -1,3 +1,4 @@
+module App
 using Stipple
 
 @reactive mutable struct Name <: ReactiveModel
@@ -24,4 +25,5 @@ route("/") do
   html(ui(model), context = @__MODULE__)
 end
 
-up() # or `up(open_browser = true)` to automatically open a browser window/tab when launching the app
+end
+#up() # or `up(open_browser = true)` to automatically open a browser window/tab when launching the app
