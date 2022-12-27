@@ -7,7 +7,7 @@ WORKDIR /home/genie/app
 RUN chown -R genie:genie /home/
 USER genie
 
-EXPOSE 8760
+EXPOSE 7860
 EXPOSE 80
 ENV JULIA_DEPOT_PATH "/home/genie/.julia"
 ENV GENIE_ENV "prod"
