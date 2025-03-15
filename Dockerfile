@@ -7,6 +7,9 @@ WORKDIR /home/genie/app
 RUN chown -R genie:genie /home/genie
 USER genie
 
+## Install youtube transcript api
+#RUN pip3 install youtube-transcript-api
+
 EXPOSE 8000
 EXPOSE 80
 ENV JULIA_DEPOT_PATH "/home/genie/.julia"

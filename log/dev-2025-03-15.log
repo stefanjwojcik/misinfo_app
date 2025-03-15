@@ -1,0 +1,1174 @@
+┌ Info: 2025-03-15 08:13:59 Watching ["/home/swojcik/github/GenieOnHuggingFaceSpaces"]
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-03-15 08:14:01 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 08:14:02 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/swojcik/.julia/packages/Genie/VEhXJ/src/Server.jl:182
+┌ Info: 2025-03-15 08:14:02 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/swojcik/.julia/packages/HTTP/4AUPl/src/Servers.jl:382
+┌ Info: 2025-03-15 08:14:19 Calling finalizers
+└ @ Stipple /home/swojcik/.julia/packages/Stipple/UZmka/src/Stipple.jl:534
+┌ Info: 2025-03-15 08:16:14 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 08:16:42 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 08:17:08 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /home/swojcik/.julia/packages/HTTP/4AUPl/src/Servers.jl:409
+┌ Info: 2025-03-15 08:17:12 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/swojcik/.julia/packages/Genie/VEhXJ/src/Server.jl:182
+┌ Info: 2025-03-15 08:17:12 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/swojcik/.julia/packages/HTTP/4AUPl/src/Servers.jl:382
+┌ Info: 2025-03-15 08:25:45 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 08:27:34 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 08:30:01 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 08:58:36 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 08:59:42 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /home/swojcik/.julia/packages/HTTP/4AUPl/src/Servers.jl:409
+┌ Info: 2025-03-15 08:59:56 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/swojcik/.julia/packages/Genie/VEhXJ/src/Server.jl:182
+┌ Info: 2025-03-15 08:59:56 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/swojcik/.julia/packages/HTTP/4AUPl/src/Servers.jl:382
+┌ Info: 2025-03-15 09:00:38 Watching ["/home/swojcik/github/GenieOnHuggingFaceSpaces"]
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-03-15 09:00:39 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 09:00:40 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/swojcik/.julia/packages/Genie/VEhXJ/src/Server.jl:182
+┌ Info: 2025-03-15 09:00:40 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/swojcik/.julia/packages/HTTP/4AUPl/src/Servers.jl:382
+┌ Info: 2025-03-15 09:06:19 Watching ["/home/swojcik/github/GenieOnHuggingFaceSpaces"]
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-03-15 09:06:20 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 09:06:22 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/swojcik/.julia/packages/Genie/VEhXJ/src/Server.jl:182
+┌ Info: 2025-03-15 09:06:22 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/swojcik/.julia/packages/HTTP/4AUPl/src/Servers.jl:382
+┌ Info: 2025-03-15 09:11:06 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 09:11:41 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /home/swojcik/.julia/packages/HTTP/4AUPl/src/Servers.jl:409
+┌ Info: 2025-03-15 09:11:49 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/swojcik/.julia/packages/Genie/VEhXJ/src/Server.jl:182
+┌ Info: 2025-03-15 09:11:49 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/swojcik/.julia/packages/HTTP/4AUPl/src/Servers.jl:382
+┌ Info: 2025-03-15 09:12:08 Watching ["/home/swojcik/github/GenieOnHuggingFaceSpaces"]
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-03-15 09:12:10 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 09:12:11 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/swojcik/.julia/packages/Genie/VEhXJ/src/Server.jl:182
+┌ Info: 2025-03-15 09:12:11 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/swojcik/.julia/packages/HTTP/4AUPl/src/Servers.jl:382
+┌ Info: 2025-03-15 09:30:07 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Error: 2025-03-15 09:32:10 Failed to revise /home/swojcik/github/GenieOnHuggingFaceSpaces/lib/MyController.jl
+│   exception = Revise.ReviseEvalException("/home/swojcik/github/GenieOnHuggingFaceSpaces/lib/MyController.jl:33", UndefVarError(:OrderedDict), Any[(top-level scope at MyController.jl:33, 1)])
+└ @ Revise /home/swojcik/.julia/packages/Revise/tTIBp/src/packagedef.jl:776
+┌ Warning: 2025-03-15 09:32:11 The running code does not match the saved version for the following files:
+│ 
+│   /home/swojcik/github/GenieOnHuggingFaceSpaces/lib/MyController.jl
+│ 
+│ If the error was due to evaluation order, it can sometimes be resolved by calling `Revise.retry()`.
+│ Use Revise.errors() to report errors again. Only the first error in each file is shown.
+│ Your prompt color may be yellow until the errors are resolved.
+└ @ Revise /home/swojcik/.julia/packages/Revise/tTIBp/src/packagedef.jl:893
+┌ Info: 2025-03-15 09:32:11 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /home/swojcik/.julia/packages/HTTP/4AUPl/src/Servers.jl:409
+┌ Info: 2025-03-15 09:32:33 Watching ["/home/swojcik/github/GenieOnHuggingFaceSpaces"]
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-03-15 09:32:35 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 09:32:36 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/swojcik/.julia/packages/Genie/VEhXJ/src/Server.jl:182
+┌ Info: 2025-03-15 09:32:36 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/swojcik/.julia/packages/HTTP/4AUPl/src/Servers.jl:382
+┌ Info: 2025-03-15 09:34:18 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 09:35:26 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 09:38:14 Watching ["/home/swojcik/github/GenieOnHuggingFaceSpaces"]
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-03-15 09:38:15 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 09:38:16 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/swojcik/.julia/packages/Genie/VEhXJ/src/Server.jl:182
+┌ Info: 2025-03-15 09:38:16 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/swojcik/.julia/packages/HTTP/4AUPl/src/Servers.jl:382
+┌ Error: 2025-03-15 09:45:37 Failed to revise /home/swojcik/github/GenieOnHuggingFaceSpaces/app.jl
+│   exception = (Base.Meta.ParseError("ParseError:\n# Error @ /home/swojcik/github/GenieOnHuggingFaceSpaces/app.jl:44:1\n\nend\n└─┘ ── invalid identifier", Base.JuliaSyntax.ParseError(Base.JuliaSyntax.SourceFile("module App\nusing Main.MyController\nusing GenieFramework, PlotlyBase\nusing Genie.Renderer.Html\n\n@genietools\n\n@app begin\n    #reactive code goes here\nend\n\nfunction ui()\n    p(\"This is some text\") #initialized to an empty paragraph\nend\n\nfunction root_ui()\n    p(\"Welcome to the root page!\")\nend\n\n@genietools\n\nfunction count_vowels(message)\n    sum([c ∈ ['a', 'e', 'i', 'o', 'u'] for c in lowercase(message)])\nend\n\n@app begin\n    @in message = \"\"\n    @out vowels = 0\n    @onchange message begin\n        vowels = count_vowels(message)\n    end\nend\n\n\n\nend\n\n# Example route that uses gradient text\nroute(\"/gradient\") do\n    message = \"this is a message\"\n   gradient_message = MyController.generate_example(message)\nend\n\nend", 0, "/home/swojcik/github/GenieOnHuggingFaceSpaces/app.jl", 1, [1, 12, 36, 69, 95, 96, 108, 109, 120, 149, 153, 154, 168, 230, 234, 235, 254, 289, 293, 294, 306, 307, 338, 409, 413, 414, 425, 446, 466, 494, 533, 541, 545, 546, 547, 548, 552, 553, 593, 615, 649, 710, 714, 715, 718]), Base.JuliaSyntax.Diagnostic[Base.JuliaSyntax.Diagnostic(715, 717, :error, "invalid identifier")], :none)), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x0000727e60c58627, Ptr{Nothing} @0x0000727e60c46f8d, Ptr{Nothing} @0x0000727e60c64dd4, Ptr{Nothing} @0x0000727e60c648c4, Ptr{Nothing} @0x0000727e60c65623, Ptr{Nothing} @0x0000727e60c663fd, Base.InterpreterIP in top-level CodeInfo for Revise at statement 0])
+└ @ Revise /home/swojcik/.julia/packages/Revise/tTIBp/src/packagedef.jl:778
+┌ Warning: 2025-03-15 09:45:38 The running code does not match the saved version for the following files:
+│ 
+│   /home/swojcik/github/GenieOnHuggingFaceSpaces/app.jl
+│ 
+│ If the error was due to evaluation order, it can sometimes be resolved by calling `Revise.retry()`.
+│ Use Revise.errors() to report errors again. Only the first error in each file is shown.
+│ Your prompt color may be yellow until the errors are resolved.
+└ @ Revise /home/swojcik/.julia/packages/Revise/tTIBp/src/packagedef.jl:893
+┌ Info: 2025-03-15 09:45:51 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /home/swojcik/.julia/packages/HTTP/4AUPl/src/Servers.jl:409
+┌ Info: 2025-03-15 09:47:39 Watching ["/home/swojcik/github/GenieOnHuggingFaceSpaces"]
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-03-15 09:47:40 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 09:47:41 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/swojcik/.julia/packages/Genie/VEhXJ/src/Server.jl:182
+┌ Info: 2025-03-15 09:47:41 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/swojcik/.julia/packages/HTTP/4AUPl/src/Servers.jl:382
+┌ Info: 2025-03-15 09:51:05 Calling finalizers
+└ @ Stipple /home/swojcik/.julia/packages/Stipple/UZmka/src/Stipple.jl:534
+┌ Info: 2025-03-15 09:51:47 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 09:51:47 Calling finalizers
+└ @ Stipple /home/swojcik/.julia/packages/Stipple/UZmka/src/Stipple.jl:534
+┌ Info: 2025-03-15 09:54:15 Calling finalizers
+└ @ Stipple /home/swojcik/.julia/packages/Stipple/UZmka/src/Stipple.jl:534
+┌ Info: 2025-03-15 09:54:28 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 09:54:28 Calling finalizers
+└ @ Stipple /home/swojcik/.julia/packages/Stipple/UZmka/src/Stipple.jl:534
+┌ Info: 2025-03-15 09:54:43 Watching ["/home/swojcik/github/GenieOnHuggingFaceSpaces"]
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-03-15 09:54:45 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 09:54:46 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/swojcik/.julia/packages/Genie/VEhXJ/src/Server.jl:182
+┌ Info: 2025-03-15 09:54:46 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/swojcik/.julia/packages/HTTP/4AUPl/src/Servers.jl:382
+┌ Info: 2025-03-15 09:55:13 Calling finalizers
+└ @ Stipple /home/swojcik/.julia/packages/Stipple/UZmka/src/Stipple.jl:534
+┌ Error: 2025-03-15 10:02:22 Failed to revise /home/swojcik/github/GenieOnHuggingFaceSpaces/app.jl
+│   exception = Revise.ReviseEvalException("/home/swojcik/github/GenieOnHuggingFaceSpaces/app.jl:29", UndefVarError(:formui), Any[(top-level scope at app.jl:29, 1)])
+└ @ Revise /home/swojcik/.julia/packages/Revise/tTIBp/src/packagedef.jl:776
+┌ Warning: 2025-03-15 10:02:23 The running code does not match the saved version for the following files:
+│ 
+│   /home/swojcik/github/GenieOnHuggingFaceSpaces/app.jl
+│ 
+│ If the error was due to evaluation order, it can sometimes be resolved by calling `Revise.retry()`.
+│ Use Revise.errors() to report errors again. Only the first error in each file is shown.
+│ Your prompt color may be yellow until the errors are resolved.
+└ @ Revise /home/swojcik/.julia/packages/Revise/tTIBp/src/packagedef.jl:893
+┌ Error: 2025-03-15 10:03:26 Failed to revise /home/swojcik/github/GenieOnHuggingFaceSpaces/app.jl
+│   exception = Revise.ReviseEvalException("/home/swojcik/github/GenieOnHuggingFaceSpaces/app.jl:34", UndefVarError(:formui), Any[(top-level scope at app.jl:34, 1)])
+└ @ Revise /home/swojcik/.julia/packages/Revise/tTIBp/src/packagedef.jl:776
+┌ Warning: 2025-03-15 10:03:39 App not yet defined, this is strongly discouraged, please define an app first
+└ @ Stipple.ReactiveTools /home/swojcik/.julia/packages/Stipple/UZmka/src/ReactiveTools.jl:1193
+┌ Info: 2025-03-15 10:03:41 Watching ["/home/swojcik/github/GenieOnHuggingFaceSpaces"]
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-03-15 10:03:42 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 10:03:43 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/swojcik/.julia/packages/Genie/VEhXJ/src/Server.jl:182
+┌ Info: 2025-03-15 10:03:43 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/swojcik/.julia/packages/HTTP/4AUPl/src/Servers.jl:382
+┌ Info: 2025-03-15 10:04:19 Calling finalizers
+└ @ Stipple /home/swojcik/.julia/packages/Stipple/UZmka/src/Stipple.jl:534
+┌ Info: 2025-03-15 10:04:32 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 10:04:39 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 10:04:47 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /home/swojcik/.julia/packages/HTTP/4AUPl/src/Servers.jl:409
+┌ Info: 2025-03-15 10:05:27 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 10:05:56 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 10:06:02 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/swojcik/.julia/packages/Genie/VEhXJ/src/Server.jl:182
+┌ Info: 2025-03-15 10:06:02 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/swojcik/.julia/packages/HTTP/4AUPl/src/Servers.jl:382
+┌ Error: 2025-03-15 10:06:15 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for anonymous function "#49":
+│  [1] (::Main.App.var"#49#51")(...)
+│      @ ~/.julia/packages/Stipple/UZmka/src/ReactiveTools.jl:950
+│   Core.CodeInfo[CodeInfo(
+│ 1 ─ %1 = Core.getfield(#self#, :__model__)
+│ │   %2 = Base.getproperty(%1, :N)
+│ │   %3 = Base.getindex(%2)
+│ │   %4 = Main.App.rand(%3)
+│ │   %5 = Main.App.mean(%4)
+│ │   %6 = Core.getfield(#self#, :__model__)
+│ │   %7 = Base.getproperty(%6, :m)
+│ │        Base.setindex!(%7, %5)
+│ └──      return %5
+│ )]
+│ 
+│   Type of argument:
+│   Int64
+│ 
+│   Value:
+│   1000
+│ 
+│   Exception:
+│   UndefVarError(:mean)
+│ 
+│   exception = (UndefVarError(:mean), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007a0ff26c9564, Ptr{Nothing} @0x00007a0ff2663c57, Ptr{Nothing} @0x00007a0fd41abe71, Ptr{Nothing} @0x00007a0fd41abf28, Ptr{Nothing} @0x00007a0ff2646f8d, Ptr{Nothing} @0x00007a0ff2657548, Ptr{Nothing} @0x00007a0fd41ab17e, Ptr{Nothing} @0x00007a0fd41abc09, Ptr{Nothing} @0x00007a0fd41abc53, Ptr{Nothing} @0x00007a0ff2646f8d, Ptr{Nothing} @0x00007a0fd41aaef1, Ptr{Nothing} @0x00007a0fd41aafc7, Ptr{Nothing} @0x00007a0ff2646f8d, Ptr{Nothing} @0x00007a0fd41a2443, Ptr{Nothing} @0x00007a0fd41a2702, Ptr{Nothing} @0x00007a0ff2646f8d, Ptr{Nothing} @0x00007a0fd414c454, Ptr{Nothing} @0x00007a0fd414c918, Ptr{Nothing} @0x00007a0fd414c9ca, Ptr{Nothing} @0x00007a0fd414ca09, Ptr{Nothing} @0x00007a0ff2646f8d, Ptr{Nothing} @0x00007a0fd41422fd, Ptr{Nothing} @0x00007a0fd4142352, Ptr{Nothing} @0x00007a0ff2646f8d, Ptr{Nothing} @0x00007a0ff2657548, Ptr{Nothing} @0x00007a0f9ab3054f, Ptr{Nothing} @0x00007a0f9ab71383, Ptr{Nothing} @0x00007a0f9aa8148e, Ptr{Nothing} @0x00007a0ff25c3dec, Ptr{Nothing} @0x00007a0ff25c3f45, Ptr{Nothing} @0x00007a0ff2646f8d, Ptr{Nothing} @0x00007a0ff2657548, Ptr{Nothing} @0x00007a0ff25be2ab, Ptr{Nothing} @0x00007a0ff25c0abf, Ptr{Nothing} @0x00007a0ff25c1112, Ptr{Nothing} @0x00007a0ff2646f8d, Ptr{Nothing} @0x00007a0ff266a30f])
+└ @ Stipple /home/swojcik/.julia/packages/Stipple/UZmka/src/stipple/mutators.jl:54
+┌ Info: 2025-03-15 10:06:17 Calling finalizers
+└ @ Stipple /home/swojcik/.julia/packages/Stipple/UZmka/src/Stipple.jl:534
+┌ Info: 2025-03-15 10:06:25 Calling finalizers
+└ @ Stipple /home/swojcik/.julia/packages/Stipple/UZmka/src/Stipple.jl:534
+┌ Info: 2025-03-15 10:54:23 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 10:54:23 Calling finalizers
+└ @ Stipple /home/swojcik/.julia/packages/Stipple/UZmka/src/Stipple.jl:534
+┌ Info: 2025-03-15 10:57:37 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 10:57:37 Calling finalizers
+└ @ Stipple /home/swojcik/.julia/packages/Stipple/UZmka/src/Stipple.jl:534
+┌ Info: 2025-03-15 10:59:20 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 10:59:20 Calling finalizers
+└ @ Stipple /home/swojcik/.julia/packages/Stipple/UZmka/src/Stipple.jl:534
+┌ Warning: 2025-03-15 11:01:55 /home/swojcik/github/GenieOnHuggingFaceSpaces/lib/StatisticAnalysis.jl no longer exists, deleted all methods
+└ @ Revise /home/swojcik/.julia/packages/Revise/tTIBp/src/packagedef.jl:720
+┌ Info: 2025-03-15 11:01:55 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 11:01:55 Calling finalizers
+└ @ Stipple /home/swojcik/.julia/packages/Stipple/UZmka/src/Stipple.jl:534
+┌ Info: 2025-03-15 11:02:03 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 11:02:03 Calling finalizers
+└ @ Stipple /home/swojcik/.julia/packages/Stipple/UZmka/src/Stipple.jl:534
+┌ Info: 2025-03-15 11:02:53 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 11:02:53 Calling finalizers
+└ @ Stipple /home/swojcik/.julia/packages/Stipple/UZmka/src/Stipple.jl:534
+┌ Info: 2025-03-15 11:02:56 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 11:02:56 Calling finalizers
+└ @ Stipple /home/swojcik/.julia/packages/Stipple/UZmka/src/Stipple.jl:534
+┌ Info: 2025-03-15 11:03:03 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 11:03:03 Calling finalizers
+└ @ Stipple /home/swojcik/.julia/packages/Stipple/UZmka/src/Stipple.jl:534
+┌ Info: 2025-03-15 11:04:55 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 11:04:55 Calling finalizers
+└ @ Stipple /home/swojcik/.julia/packages/Stipple/UZmka/src/Stipple.jl:534
+┌ Info: 2025-03-15 11:07:06 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 11:07:06 Calling finalizers
+└ @ Stipple /home/swojcik/.julia/packages/Stipple/UZmka/src/Stipple.jl:534
+┌ Info: 2025-03-15 11:56:21 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 11:56:21 Calling finalizers
+└ @ Stipple /home/swojcik/.julia/packages/Stipple/UZmka/src/Stipple.jl:534
+┌ Info: 2025-03-15 11:56:22 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 11:57:00 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 11:57:00 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 11:57:00 Calling finalizers
+└ @ Stipple /home/swojcik/.julia/packages/Stipple/UZmka/src/Stipple.jl:534
+┌ Info: 2025-03-15 11:57:16 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 11:57:16 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 11:57:16 Calling finalizers
+└ @ Stipple /home/swojcik/.julia/packages/Stipple/UZmka/src/Stipple.jl:534
+┌ Info: 2025-03-15 12:21:16 Watching ["/home/swojcik/github/GenieOnHuggingFaceSpaces"]
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-03-15 12:21:17 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 12:21:18 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/swojcik/.julia/packages/Genie/VEhXJ/src/Server.jl:182
+┌ Info: 2025-03-15 12:21:19 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/swojcik/.julia/packages/HTTP/4AUPl/src/Servers.jl:382
+┌ Info: 2025-03-15 12:22:41 Transcribing SW14tOda_kI
+└ @ Main.App /home/swojcik/github/GenieOnHuggingFaceSpaces/app.jl:19
+┌ Error: 2025-03-15 12:22:42 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for anonymous function "#10":
+│  [1] (::Main.App.var"#10#13")(...)
+│      @ ~/.julia/packages/Stipple/UZmka/src/ReactiveTools.jl:950
+│   Core.CodeInfo[CodeInfo(
+│ 1 ──       Core.NewvarNode(:(msg))
+│ │          Core.NewvarNode(:(kwargs))
+│ │          Core.NewvarNode(:(line))
+│ │          Core.NewvarNode(:(file))
+│ │          Core.NewvarNode(:(id))
+│ │          Core.NewvarNode(:(logger))
+│ │          Core.NewvarNode(:(_module))
+│ │          Core.NewvarNode(:(group))
+│ │          level = Base.CoreLogging.Info
+│ │          std_level = level
+│ │    %11 = std_level
+│ │    %12 = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %13 = %11 >= %12
+│ └───       goto #17 if not %13
+│ 2 ──       group = :app
+│ │          _module = Main.App
+│ │          logger = (Base.CoreLogging.current_logger_for_env)(std_level, group, _module)
+│ │    %18 = logger === Base.CoreLogging.nothing
+│ │    %19 = !%18
+│ └───       goto #17 if not %19
+│ 3 ──       id = :Main_App_b92f546e
+│ │    %22 = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger, level, _module, group, id)
+│ └───       goto #17 if not %22
+│ 4 ──       file = "/home/swojcik/github/GenieOnHuggingFaceSpaces/app.jl"
+│ │    %25 = file isa Base.CoreLogging.String
+│ └───       goto #6 if not %25
+│ 5 ── %27 = Base.fixup_stdlib_path
+│ └───       file = (%27)(file)
+│ 6 ┄─       line = 19
+│ 7 ── %30 = $(Expr(:enter, #10))
+│ 8 ── %31 = Core.getfield(#self#, :__model__)
+│ │    %32 = Base.getproperty(%31, :url)
+│ │    %33 = Base.getindex(%32)
+│ │          msg = Base.string("Transcribing ", %33)
+│ │          kwargs = Core.NamedTuple()
+│ │          @_14 = true
+│ └───       $(Expr(:leave, 1))
+│ 9 ──       goto #12
+│ 10 ┄       $(Expr(:leave, 1))
+│ 11 ─       err = $(Expr(:the_exception))
+│ │          Base.invokelatest(Base.CoreLogging.logging_error, logger, level, _module, group, id, file, line, err, true)
+│ │          @_14 = false
+│ └───       $(Expr(:pop_exception, :(%30)))
+│ 12 ┄       goto #17 if not @_14
+│ 13 ─ %45 = Base.NamedTuple()
+│ │    %46 = Base.merge(%45, kwargs)
+│ │    %47 = Base.isempty(%46)
+│ └───       goto #15 if not %47
+│ 14 ─       Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger, level, msg, _module, group, id, file, line)
+│ └───       goto #16
+│ 15 ─       Core.kwcall(%46, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger, level, msg, _module, group, id, file, line)
+│ 16 ┄       goto #17
+│ 17 ┄       Base.CoreLogging.nothing
+│ │    %54 = true
+│ │    %55 = Core.getfield(#self#, :__model__)
+│ │    %56 = Base.getproperty(%55, :transcribing)
+│ │          Base.setindex!(%56, %54)
+│ │    %58 = Base.getproperty(Main.App.MyController, :get_transcript_text_only)
+│ │    %59 = Core.getfield(#self#, :__model__)
+│ │    %60 = Base.getproperty(%59, :url)
+│ │    %61 = Base.getindex(%60)
+│ │    %62 = (%58)(%61)
+│ │    %63 = Core.getfield(#self#, :__model__)
+│ │    %64 = Base.getproperty(%63, :transcription)
+│ │          Base.setindex!(%64, %62)
+│ │    %66 = false
+│ │    %67 = Core.getfield(#self#, :__model__)
+│ │    %68 = Base.getproperty(%67, :transcribing)
+│ │          Base.setindex!(%68, %66)
+│ └───       return %66
+│ )]
+│ 
+│   Type of argument:
+│   Bool
+│ 
+│   Value:
+│   true
+│ 
+│   Exception:
+│   UndefVarError(:get_transcript_text_only)
+│ 
+│   exception = (UndefVarError(:get_transcript_text_only), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x0000721b5b4c9564, Ptr{Nothing} @0x0000721b5b463c57, Ptr{Nothing} @0x0000721b12b15959, Ptr{Nothing} @0x0000721b12b16068, Ptr{Nothing} @0x0000721b5b446f8d, Ptr{Nothing} @0x0000721b5b457548, Ptr{Nothing} @0x0000721b12b00a0b, Ptr{Nothing} @0x0000721b12b01469, Ptr{Nothing} @0x0000721b12b014b5, Ptr{Nothing} @0x0000721b5b446f8d, Ptr{Nothing} @0x0000721b13008090, Ptr{Nothing} @0x0000721b1300815b, Ptr{Nothing} @0x0000721b5b446f8d, Ptr{Nothing} @0x0000721b130027e3, Ptr{Nothing} @0x0000721b13002aa2, Ptr{Nothing} @0x0000721b5b446f8d, Ptr{Nothing} @0x0000721b12ffcb34, Ptr{Nothing} @0x0000721b12ffcff8, Ptr{Nothing} @0x0000721b12ffd0aa, Ptr{Nothing} @0x0000721b12ffd0e9, Ptr{Nothing} @0x0000721b5b446f8d, Ptr{Nothing} @0x0000721b12ff29bd, Ptr{Nothing} @0x0000721b12ff2a12, Ptr{Nothing} @0x0000721b5b446f8d, Ptr{Nothing} @0x0000721b5b457548, Ptr{Nothing} @0x0000721b0393054f, Ptr{Nothing} @0x0000721b03971383, Ptr{Nothing} @0x0000721b12f4df3d, Ptr{Nothing} @0x0000721b12f51d3c, Ptr{Nothing} @0x0000721b12f51e95, Ptr{Nothing} @0x0000721b5b446f8d, Ptr{Nothing} @0x0000721b5b457548, Ptr{Nothing} @0x0000721b12f48ceb, Ptr{Nothing} @0x0000721b12f4b51f, Ptr{Nothing} @0x0000721b12f4bb72, Ptr{Nothing} @0x0000721b5b446f8d, Ptr{Nothing} @0x0000721b5b46a30f])
+└ @ Stipple /home/swojcik/.julia/packages/Stipple/UZmka/src/stipple/mutators.jl:54
+┌ Info: 2025-03-15 12:24:10 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /home/swojcik/.julia/packages/HTTP/4AUPl/src/Servers.jl:409
+┌ Info: 2025-03-15 12:25:53 Watching ["/home/swojcik/github/GenieOnHuggingFaceSpaces"]
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-03-15 12:25:55 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 12:25:56 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/swojcik/.julia/packages/Genie/VEhXJ/src/Server.jl:182
+┌ Info: 2025-03-15 12:25:56 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/swojcik/.julia/packages/HTTP/4AUPl/src/Servers.jl:382
+┌ Info: 2025-03-15 12:26:39 Transcribing SW14tOda_kI
+└ @ Main.App /home/swojcik/github/GenieOnHuggingFaceSpaces/app.jl:20
+┌ Error: 2025-03-15 12:26:40 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for anonymous function "#10":
+│  [1] (::Main.App.var"#10#13")(...)
+│      @ ~/.julia/packages/Stipple/UZmka/src/ReactiveTools.jl:950
+│   Core.CodeInfo[CodeInfo(
+│ 1 ──       Core.NewvarNode(:(msg))
+│ │          Core.NewvarNode(:(kwargs))
+│ │          Core.NewvarNode(:(line))
+│ │          Core.NewvarNode(:(file))
+│ │          Core.NewvarNode(:(id))
+│ │          Core.NewvarNode(:(logger))
+│ │          Core.NewvarNode(:(_module))
+│ │          Core.NewvarNode(:(group))
+│ │          level = Base.CoreLogging.Info
+│ │          std_level = level
+│ │    %11 = std_level
+│ │    %12 = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %13 = %11 >= %12
+│ └───       goto #17 if not %13
+│ 2 ──       group = :app
+│ │          _module = Main.App
+│ │          logger = (Base.CoreLogging.current_logger_for_env)(std_level, group, _module)
+│ │    %18 = logger === Base.CoreLogging.nothing
+│ │    %19 = !%18
+│ └───       goto #17 if not %19
+│ 3 ──       id = :Main_App_b92f546e
+│ │    %22 = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger, level, _module, group, id)
+│ └───       goto #17 if not %22
+│ 4 ──       file = "/home/swojcik/github/GenieOnHuggingFaceSpaces/app.jl"
+│ │    %25 = file isa Base.CoreLogging.String
+│ └───       goto #6 if not %25
+│ 5 ── %27 = Base.fixup_stdlib_path
+│ └───       file = (%27)(file)
+│ 6 ┄─       line = 20
+│ 7 ── %30 = $(Expr(:enter, #10))
+│ 8 ── %31 = Core.getfield(#self#, :__model__)
+│ │    %32 = Base.getproperty(%31, :url)
+│ │    %33 = Base.getindex(%32)
+│ │          msg = Base.string("Transcribing ", %33)
+│ │          kwargs = Core.NamedTuple()
+│ │          @_14 = true
+│ └───       $(Expr(:leave, 1))
+│ 9 ──       goto #12
+│ 10 ┄       $(Expr(:leave, 1))
+│ 11 ─       err = $(Expr(:the_exception))
+│ │          Base.invokelatest(Base.CoreLogging.logging_error, logger, level, _module, group, id, file, line, err, true)
+│ │          @_14 = false
+│ └───       $(Expr(:pop_exception, :(%30)))
+│ 12 ┄       goto #17 if not @_14
+│ 13 ─ %45 = Base.NamedTuple()
+│ │    %46 = Base.merge(%45, kwargs)
+│ │    %47 = Base.isempty(%46)
+│ └───       goto #15 if not %47
+│ 14 ─       Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger, level, msg, _module, group, id, file, line)
+│ └───       goto #16
+│ 15 ─       Core.kwcall(%46, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger, level, msg, _module, group, id, file, line)
+│ 16 ┄       goto #17
+│ 17 ┄       Base.CoreLogging.nothing
+│ │    %54 = true
+│ │    %55 = Core.getfield(#self#, :__model__)
+│ │    %56 = Base.getproperty(%55, :transcribing)
+│ │          Base.setindex!(%56, %54)
+│ │    %58 = Base.getproperty(Main.App.Transcriber, :get_transcript_text_only)
+│ │    %59 = Core.getfield(#self#, :__model__)
+│ │    %60 = Base.getproperty(%59, :url)
+│ │    %61 = Base.getindex(%60)
+│ │    %62 = (%58)(%61)
+│ │    %63 = Core.getfield(#self#, :__model__)
+│ │    %64 = Base.getproperty(%63, :transcription)
+│ │          Base.setindex!(%64, %62)
+│ │    %66 = false
+│ │    %67 = Core.getfield(#self#, :__model__)
+│ │    %68 = Base.getproperty(%67, :transcribing)
+│ │          Base.setindex!(%68, %66)
+│ └───       return %66
+│ )]
+│ 
+│   Type of argument:
+│   Bool
+│ 
+│   Value:
+│   true
+│ 
+│   Exception:
+│   PyError ($(Expr(:escape, :(ccall(#= /home/swojcik/.julia/packages/PyCall/1gn3u/src/pyeval.jl:38 =# @pysym(:PyEval_EvalCode), PyPtr, (PyPtr, PyPtr, PyPtr), o, globals, locals))))) <class 'NameError'>
+│ NameError("name 'get_transcript' is not defined")
+│   File "/home/swojcik/.julia/packages/PyCall/1gn3u/src/pyeval.jl", line 1, in <module>
+│     const Py_single_input = 256  # from Python.h
+│ 
+│ 
+│   exception = (PyError ($(Expr(:escape, :(ccall(#= /home/swojcik/.julia/packages/PyCall/1gn3u/src/pyeval.jl:38 =# @pysym(:PyEval_EvalCode), PyPtr, (PyPtr, PyPtr, PyPtr), o, globals, locals))))) <class 'NameError'>
+NameError("name 'get_transcript' is not defined")
+  File "/home/swojcik/.julia/packages/PyCall/1gn3u/src/pyeval.jl", line 1, in <module>
+    const Py_single_input = 256  # from Python.h
+, Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007d33dae4b8b2, Ptr{Nothing} @0x00007d33daea364b, Ptr{Nothing} @0x00007d340880d5fb, Ptr{Nothing} @0x00007d340880d6ed, Ptr{Nothing} @0x00007d340880da0e, Ptr{Nothing} @0x00007d340880e098, Ptr{Nothing} @0x00007d3451246f8d, Ptr{Nothing} @0x00007d3451257548, Ptr{Nothing} @0x00007d340880058b, Ptr{Nothing} @0x00007d3408800fe9, Ptr{Nothing} @0x00007d3408801035, Ptr{Nothing} @0x00007d3451246f8d, Ptr{Nothing} @0x00007d34089fed10, Ptr{Nothing} @0x00007d34089feddb, Ptr{Nothing} @0x00007d3451246f8d, Ptr{Nothing} @0x00007d34089f9463, Ptr{Nothing} @0x00007d34089f9722, Ptr{Nothing} @0x00007d3451246f8d, Ptr{Nothing} @0x00007d34089f37b4, Ptr{Nothing} @0x00007d34089f3c78, Ptr{Nothing} @0x00007d34089f3d2a, Ptr{Nothing} @0x00007d34089f3d69, Ptr{Nothing} @0x00007d3451246f8d, Ptr{Nothing} @0x00007d34089e963d, Ptr{Nothing} @0x00007d34089e9692, Ptr{Nothing} @0x00007d3451246f8d, Ptr{Nothing} @0x00007d3451257548, Ptr{Nothing} @0x00007d33f973054f, Ptr{Nothing} @0x00007d33f9771383, Ptr{Nothing} @0x00007d340894526b, Ptr{Nothing} @0x00007d340894903c, Ptr{Nothing} @0x00007d3408949195, Ptr{Nothing} @0x00007d3451246f8d, Ptr{Nothing} @0x00007d3451257548, Ptr{Nothing} @0x00007d3408940022, Ptr{Nothing} @0x00007d340894285f, Ptr{Nothing} @0x00007d3408942eb2, Ptr{Nothing} @0x00007d3451246f8d, Ptr{Nothing} @0x00007d345126a30f])
+└ @ Stipple /home/swojcik/.julia/packages/Stipple/UZmka/src/stipple/mutators.jl:54
+┌ Info: 2025-03-15 12:30:40 Watching ["/home/swojcik/github/GenieOnHuggingFaceSpaces"]
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-03-15 12:30:42 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 12:30:43 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/swojcik/.julia/packages/Genie/VEhXJ/src/Server.jl:182
+┌ Info: 2025-03-15 12:30:43 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/swojcik/.julia/packages/HTTP/4AUPl/src/Servers.jl:382
+┌ Info: 2025-03-15 12:31:31 Calling finalizers
+└ @ Stipple /home/swojcik/.julia/packages/Stipple/UZmka/src/Stipple.jl:534
+┌ Info: 2025-03-15 12:32:23 Transcribing SW14tOda_kI
+└ @ Main.App /home/swojcik/github/GenieOnHuggingFaceSpaces/app.jl:20
+┌ Error: 2025-03-15 12:32:24 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for anonymous function "#10":
+│  [1] (::Main.App.var"#10#13")(...)
+│      @ ~/.julia/packages/Stipple/UZmka/src/ReactiveTools.jl:950
+│   Core.CodeInfo[CodeInfo(
+│ 1 ──       Core.NewvarNode(:(msg))
+│ │          Core.NewvarNode(:(kwargs))
+│ │          Core.NewvarNode(:(line))
+│ │          Core.NewvarNode(:(file))
+│ │          Core.NewvarNode(:(id))
+│ │          Core.NewvarNode(:(logger))
+│ │          Core.NewvarNode(:(_module))
+│ │          Core.NewvarNode(:(group))
+│ │          level = Base.CoreLogging.Info
+│ │          std_level = level
+│ │    %11 = std_level
+│ │    %12 = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %13 = %11 >= %12
+│ └───       goto #17 if not %13
+│ 2 ──       group = :app
+│ │          _module = Main.App
+│ │          logger = (Base.CoreLogging.current_logger_for_env)(std_level, group, _module)
+│ │    %18 = logger === Base.CoreLogging.nothing
+│ │    %19 = !%18
+│ └───       goto #17 if not %19
+│ 3 ──       id = :Main_App_b92f546e
+│ │    %22 = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger, level, _module, group, id)
+│ └───       goto #17 if not %22
+│ 4 ──       file = "/home/swojcik/github/GenieOnHuggingFaceSpaces/app.jl"
+│ │    %25 = file isa Base.CoreLogging.String
+│ └───       goto #6 if not %25
+│ 5 ── %27 = Base.fixup_stdlib_path
+│ └───       file = (%27)(file)
+│ 6 ┄─       line = 20
+│ 7 ── %30 = $(Expr(:enter, #10))
+│ 8 ── %31 = Core.getfield(#self#, :__model__)
+│ │    %32 = Base.getproperty(%31, :url)
+│ │    %33 = Base.getindex(%32)
+│ │          msg = Base.string("Transcribing ", %33)
+│ │          kwargs = Core.NamedTuple()
+│ │          @_14 = true
+│ └───       $(Expr(:leave, 1))
+│ 9 ──       goto #12
+│ 10 ┄       $(Expr(:leave, 1))
+│ 11 ─       err = $(Expr(:the_exception))
+│ │          Base.invokelatest(Base.CoreLogging.logging_error, logger, level, _module, group, id, file, line, err, true)
+│ │          @_14 = false
+│ └───       $(Expr(:pop_exception, :(%30)))
+│ 12 ┄       goto #17 if not @_14
+│ 13 ─ %45 = Base.NamedTuple()
+│ │    %46 = Base.merge(%45, kwargs)
+│ │    %47 = Base.isempty(%46)
+│ └───       goto #15 if not %47
+│ 14 ─       Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger, level, msg, _module, group, id, file, line)
+│ └───       goto #16
+│ 15 ─       Core.kwcall(%46, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger, level, msg, _module, group, id, file, line)
+│ 16 ┄       goto #17
+│ 17 ┄       Base.CoreLogging.nothing
+│ │    %54 = true
+│ │    %55 = Core.getfield(#self#, :__model__)
+│ │    %56 = Base.getproperty(%55, :transcribing)
+│ │          Base.setindex!(%56, %54)
+│ │    %58 = Base.getproperty(Main.App.Transcriber, :get_transcript_text_only)
+│ │    %59 = Core.getfield(#self#, :__model__)
+│ │    %60 = Base.getproperty(%59, :url)
+│ │    %61 = Base.getindex(%60)
+│ │    %62 = (%58)(%61)
+│ │    %63 = Core.getfield(#self#, :__model__)
+│ │    %64 = Base.getproperty(%63, :transcription)
+│ │          Base.setindex!(%64, %62)
+│ │    %66 = false
+│ │    %67 = Core.getfield(#self#, :__model__)
+│ │    %68 = Base.getproperty(%67, :transcribing)
+│ │          Base.setindex!(%68, %66)
+│ └───       return %66
+│ )]
+│ 
+│   Type of argument:
+│   Bool
+│ 
+│   Value:
+│   true
+│ 
+│   Exception:
+│   PyError ($(Expr(:escape, :(ccall(#= /home/swojcik/.julia/packages/PyCall/1gn3u/src/pyeval.jl:38 =# @pysym(:PyEval_EvalCode), PyPtr, (PyPtr, PyPtr, PyPtr), o, globals, locals))))) <class 'NameError'>
+│ NameError("name 'get_transcript' is not defined")
+│   File "/home/swojcik/.julia/packages/PyCall/1gn3u/src/pyeval.jl", line 1, in <module>
+│     const Py_single_input = 256  # from Python.h
+│ 
+│ 
+│   exception = (PyError ($(Expr(:escape, :(ccall(#= /home/swojcik/.julia/packages/PyCall/1gn3u/src/pyeval.jl:38 =# @pysym(:PyEval_EvalCode), PyPtr, (PyPtr, PyPtr, PyPtr), o, globals, locals))))) <class 'NameError'>
+NameError("name 'get_transcript' is not defined")
+  File "/home/swojcik/.julia/packages/PyCall/1gn3u/src/pyeval.jl", line 1, in <module>
+    const Py_single_input = 256  # from Python.h
+, Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007606c0a4b8b2, Ptr{Nothing} @0x00007606c0aa364b, Ptr{Nothing} @0x00007606ee51d1cb, Ptr{Nothing} @0x00007606ee51d2bd, Ptr{Nothing} @0x00007606ee51d5de, Ptr{Nothing} @0x00007606ee51dc68, Ptr{Nothing} @0x0000760736e46f8d, Ptr{Nothing} @0x0000760736e57548, Ptr{Nothing} @0x00007606ee50064b, Ptr{Nothing} @0x00007606ee5010a9, Ptr{Nothing} @0x00007606ee5010f5, Ptr{Nothing} @0x0000760736e46f8d, Ptr{Nothing} @0x00007606eea07c40, Ptr{Nothing} @0x00007606eea07d0b, Ptr{Nothing} @0x0000760736e46f8d, Ptr{Nothing} @0x00007606eea02383, Ptr{Nothing} @0x00007606eea02642, Ptr{Nothing} @0x0000760736e46f8d, Ptr{Nothing} @0x00007606ee9fc6d4, Ptr{Nothing} @0x00007606ee9fcb98, Ptr{Nothing} @0x00007606ee9fcc4a, Ptr{Nothing} @0x00007606ee9fcc89, Ptr{Nothing} @0x0000760736e46f8d, Ptr{Nothing} @0x00007606ee9f255d, Ptr{Nothing} @0x00007606ee9f25b2, Ptr{Nothing} @0x0000760736e46f8d, Ptr{Nothing} @0x0000760736e57548, Ptr{Nothing} @0x00007606df33054f, Ptr{Nothing} @0x00007606df371383, Ptr{Nothing} @0x00007606ee94e2ab, Ptr{Nothing} @0x00007606ee95207c, Ptr{Nothing} @0x00007606ee9521d5, Ptr{Nothing} @0x0000760736e46f8d, Ptr{Nothing} @0x0000760736e57548, Ptr{Nothing} @0x00007606ee948ff9, Ptr{Nothing} @0x00007606ee94b89f, Ptr{Nothing} @0x00007606ee94bef2, Ptr{Nothing} @0x0000760736e46f8d, Ptr{Nothing} @0x0000760736e6a30f])
+└ @ Stipple /home/swojcik/.julia/packages/Stipple/UZmka/src/stipple/mutators.jl:54
+┌ Info: 2025-03-15 12:46:22 Watching ["/home/swojcik/github/GenieOnHuggingFaceSpaces"]
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-03-15 12:46:23 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 12:46:24 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/swojcik/.julia/packages/Genie/VEhXJ/src/Server.jl:182
+┌ Info: 2025-03-15 12:46:25 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/swojcik/.julia/packages/HTTP/4AUPl/src/Servers.jl:382
+┌ Info: 2025-03-15 12:46:50 Transcribing SW14tOda_kI
+└ @ Main.App /home/swojcik/github/GenieOnHuggingFaceSpaces/app.jl:21
+┌ Info: 2025-03-15 14:42:00 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 14:42:00 Calling finalizers
+└ @ Stipple /home/swojcik/.julia/packages/Stipple/UZmka/src/Stipple.jl:534
+┌ Info: 2025-03-15 14:50:01 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 14:50:01 Calling finalizers
+└ @ Stipple /home/swojcik/.julia/packages/Stipple/UZmka/src/Stipple.jl:534
+┌ Info: 2025-03-15 14:50:37 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 14:50:37 Calling finalizers
+└ @ Stipple /home/swojcik/.julia/packages/Stipple/UZmka/src/Stipple.jl:534
+┌ Info: 2025-03-15 14:51:10 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 14:51:10 Calling finalizers
+└ @ Stipple /home/swojcik/.julia/packages/Stipple/UZmka/src/Stipple.jl:534
+┌ Info: 2025-03-15 14:51:44 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /home/swojcik/.julia/packages/HTTP/4AUPl/src/Servers.jl:409
+┌ Info: 2025-03-15 15:00:34 Watching ["/home/swojcik/github/GenieOnHuggingFaceSpaces"]
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-03-15 15:00:36 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 15:00:37 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/swojcik/.julia/packages/Genie/VEhXJ/src/Server.jl:182
+┌ Info: 2025-03-15 15:00:37 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/swojcik/.julia/packages/HTTP/4AUPl/src/Servers.jl:382
+┌ Info: 2025-03-15 15:01:33 Transcribing SW14tOda_kI
+└ @ Main.App /home/swojcik/github/GenieOnHuggingFaceSpaces/app.jl:21
+┌ Info: 2025-03-15 15:07:06 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 15:07:06 Calling finalizers
+└ @ Stipple /home/swojcik/.julia/packages/Stipple/UZmka/src/Stipple.jl:534
+┌ Info: 2025-03-15 15:07:10 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /home/swojcik/.julia/packages/HTTP/4AUPl/src/Servers.jl:409
+┌ Info: 2025-03-15 15:08:08 Watching ["/home/swojcik/github/GenieOnHuggingFaceSpaces"]
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-03-15 15:08:09 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 15:08:11 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/swojcik/.julia/packages/Genie/VEhXJ/src/Server.jl:182
+┌ Info: 2025-03-15 15:08:11 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/swojcik/.julia/packages/HTTP/4AUPl/src/Servers.jl:382
+┌ Info: 2025-03-15 15:08:35 Transcribing SW14tOda_kI
+└ @ Main.App /home/swojcik/github/GenieOnHuggingFaceSpaces/app.jl:21
+┌ Info: 2025-03-15 15:11:01 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 15:11:01 Calling finalizers
+└ @ Stipple /home/swojcik/.julia/packages/Stipple/UZmka/src/Stipple.jl:534
+┌ Info: 2025-03-15 15:11:05 Calling finalizers
+└ @ Stipple /home/swojcik/.julia/packages/Stipple/UZmka/src/Stipple.jl:534
+┌ Info: 2025-03-15 15:11:07 Calling finalizers
+└ @ Stipple /home/swojcik/.julia/packages/Stipple/UZmka/src/Stipple.jl:534
+┌ Info: 2025-03-15 15:11:08 Calling finalizers
+└ @ Stipple /home/swojcik/.julia/packages/Stipple/UZmka/src/Stipple.jl:534
+┌ Info: 2025-03-15 15:11:15 Transcribing SW14tOda_kI
+└ @ Main.App /home/swojcik/github/GenieOnHuggingFaceSpaces/app.jl:21
+┌ Error: 2025-03-15 15:11:17 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for anonymous function "#97":
+│  [1] (::Main.App.var"#97#100")(...)
+│      @ ~/.julia/packages/Stipple/UZmka/src/ReactiveTools.jl:950
+│   Core.CodeInfo[CodeInfo(
+│ 1 ──       Core.NewvarNode(:(msg))
+│ │          Core.NewvarNode(:(kwargs))
+│ │          Core.NewvarNode(:(line))
+│ │          Core.NewvarNode(:(file))
+│ │          Core.NewvarNode(:(id))
+│ │          Core.NewvarNode(:(logger))
+│ │          Core.NewvarNode(:(_module))
+│ │          Core.NewvarNode(:(group))
+│ │          level = Base.CoreLogging.Info
+│ │          std_level = level
+│ │    %11 = std_level
+│ │    %12 = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %13 = %11 >= %12
+│ └───       goto #17 if not %13
+│ 2 ──       group = :app
+│ │          _module = Main.App
+│ │          logger = (Base.CoreLogging.current_logger_for_env)(std_level, group, _module)
+│ │    %18 = logger === Base.CoreLogging.nothing
+│ │    %19 = !%18
+│ └───       goto #17 if not %19
+│ 3 ──       id = :Main_App_b92f5471
+│ │    %22 = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger, level, _module, group, id)
+│ └───       goto #17 if not %22
+│ 4 ──       file = "/home/swojcik/github/GenieOnHuggingFaceSpaces/app.jl"
+│ │    %25 = file isa Base.CoreLogging.String
+│ └───       goto #6 if not %25
+│ 5 ── %27 = Base.fixup_stdlib_path
+│ └───       file = (%27)(file)
+│ 6 ┄─       line = 21
+│ 7 ── %30 = $(Expr(:enter, #10))
+│ 8 ── %31 = Core.getfield(#self#, :__model__)
+│ │    %32 = Base.getproperty(%31, :url)
+│ │    %33 = Base.getindex(%32)
+│ │          msg = Base.string("Transcribing ", %33)
+│ │          kwargs = Core.NamedTuple()
+│ │          @_14 = true
+│ └───       $(Expr(:leave, 1))
+│ 9 ──       goto #12
+│ 10 ┄       $(Expr(:leave, 1))
+│ 11 ─       err = $(Expr(:the_exception))
+│ │          Base.invokelatest(Base.CoreLogging.logging_error, logger, level, _module, group, id, file, line, err, true)
+│ │          @_14 = false
+│ └───       $(Expr(:pop_exception, :(%30)))
+│ 12 ┄       goto #17 if not @_14
+│ 13 ─ %45 = Base.NamedTuple()
+│ │    %46 = Base.merge(%45, kwargs)
+│ │    %47 = Base.isempty(%46)
+│ └───       goto #15 if not %47
+│ 14 ─       Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger, level, msg, _module, group, id, file, line)
+│ └───       goto #16
+│ 15 ─       Core.kwcall(%46, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger, level, msg, _module, group, id, file, line)
+│ 16 ┄       goto #17
+│ 17 ┄       Base.CoreLogging.nothing
+│ │    %54 = true
+│ │    %55 = Core.getfield(#self#, :__model__)
+│ │    %56 = Base.getproperty(%55, :transcribing)
+│ │          Base.setindex!(%56, %54)
+│ │    %58 = Main.App.Transcriber.get_transcript_text_only
+│ │    %59 = Core.getfield(#self#, :__model__)
+│ │    %60 = Base.getproperty(%59, :url)
+│ │    %61 = Base.getindex(%60)
+│ │    %62 = (%58)(%61)
+│ │    %63 = Core.getfield(#self#, :__model__)
+│ │    %64 = Base.getproperty(%63, :transcription)
+│ │          Base.setindex!(%64, %62)
+│ │    %66 = Main.MyController.generate_example
+│ │    %67 = Core.getfield(#self#, :__model__)
+│ │    %68 = Base.getproperty(%67, :transcription)
+│ │    %69 = Base.getindex(%68)
+│ │    %70 = (%66)(%69)
+│ │    %71 = Main.App.raw(%70)
+│ │    %72 = Core.getfield(#self#, :__model__)
+│ │    %73 = Base.getproperty(%72, :transcription)
+│ │          Base.setindex!(%73, %71)
+│ │    %75 = false
+│ │    %76 = Core.getfield(#self#, :__model__)
+│ │    %77 = Base.getproperty(%76, :transcribing)
+│ │          Base.setindex!(%77, %75)
+│ └───       return %75
+│ )]
+│ 
+│   Type of argument:
+│   Bool
+│ 
+│   Value:
+│   false
+│ 
+│   Exception:
+│   UndefVarError(:raw)
+│ 
+│   exception = (UndefVarError(:raw), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007e52122c9564, Ptr{Nothing} @0x00007e5212263c57, Ptr{Nothing} @0x00007e51c8d45bf8, Ptr{Nothing} @0x00007e51c8d462e8, Ptr{Nothing} @0x00007e5212246f8d, Ptr{Nothing} @0x00007e5212257548, Ptr{Nothing} @0x00007e51c8d0171b, Ptr{Nothing} @0x00007e51c8d02179, Ptr{Nothing} @0x00007e51c8d021c5, Ptr{Nothing} @0x00007e5212246f8d, Ptr{Nothing} @0x00007e51c8d401f0, Ptr{Nothing} @0x00007e51c8d402bb, Ptr{Nothing} @0x00007e5212246f8d, Ptr{Nothing} @0x00007e51c8d3eb03, Ptr{Nothing} @0x00007e51c8d3edc2, Ptr{Nothing} @0x00007e5212246f8d, Ptr{Nothing} @0x00007e51c9157ca4, Ptr{Nothing} @0x00007e51c9158168, Ptr{Nothing} @0x00007e51c915821a, Ptr{Nothing} @0x00007e51c9158259, Ptr{Nothing} @0x00007e5212246f8d, Ptr{Nothing} @0x00007e51c914db1d, Ptr{Nothing} @0x00007e51c914db72, Ptr{Nothing} @0x00007e5212246f8d, Ptr{Nothing} @0x00007e5212257548, Ptr{Nothing} @0x00007e51ba6f580f, Ptr{Nothing} @0x00007e51ba770003, Ptr{Nothing} @0x00007e51c91499bd, Ptr{Nothing} @0x00007e51c914c8af, Ptr{Nothing} @0x00007e51c914ca05, Ptr{Nothing} @0x00007e5212246f8d, Ptr{Nothing} @0x00007e5212257548, Ptr{Nothing} @0x00007e51c9143869, Ptr{Nothing} @0x00007e51c914608f, Ptr{Nothing} @0x00007e51c91466e2, Ptr{Nothing} @0x00007e5212246f8d, Ptr{Nothing} @0x00007e521226a30f])
+└ @ Stipple /home/swojcik/.julia/packages/Stipple/UZmka/src/stipple/mutators.jl:54
+┌ Info: 2025-03-15 15:11:50 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /home/swojcik/.julia/packages/HTTP/4AUPl/src/Servers.jl:409
+┌ Info: 2025-03-15 15:13:00 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/swojcik/.julia/packages/Genie/VEhXJ/src/Server.jl:182
+┌ Info: 2025-03-15 15:13:00 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/swojcik/.julia/packages/HTTP/4AUPl/src/Servers.jl:382
+┌ Info: 2025-03-15 15:13:42 Calling finalizers
+└ @ Stipple /home/swojcik/.julia/packages/Stipple/UZmka/src/Stipple.jl:534
+┌ Info: 2025-03-15 15:13:47 Transcribing SW14tOda_kI
+└ @ Main.App /home/swojcik/github/GenieOnHuggingFaceSpaces/app.jl:21
+┌ Error: 2025-03-15 15:13:48 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for anonymous function "#97":
+│  [1] (::Main.App.var"#97#100")(...)
+│      @ ~/.julia/packages/Stipple/UZmka/src/ReactiveTools.jl:950
+│   Core.CodeInfo[CodeInfo(
+│ 1 ──       Core.NewvarNode(:(msg))
+│ │          Core.NewvarNode(:(kwargs))
+│ │          Core.NewvarNode(:(line))
+│ │          Core.NewvarNode(:(file))
+│ │          Core.NewvarNode(:(id))
+│ │          Core.NewvarNode(:(logger))
+│ │          Core.NewvarNode(:(_module))
+│ │          Core.NewvarNode(:(group))
+│ │          level = Base.CoreLogging.Info
+│ │          std_level = level
+│ │    %11 = std_level
+│ │    %12 = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %13 = %11 >= %12
+│ └───       goto #17 if not %13
+│ 2 ──       group = :app
+│ │          _module = Main.App
+│ │          logger = (Base.CoreLogging.current_logger_for_env)(std_level, group, _module)
+│ │    %18 = logger === Base.CoreLogging.nothing
+│ │    %19 = !%18
+│ └───       goto #17 if not %19
+│ 3 ──       id = :Main_App_b92f5471
+│ │    %22 = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger, level, _module, group, id)
+│ └───       goto #17 if not %22
+│ 4 ──       file = "/home/swojcik/github/GenieOnHuggingFaceSpaces/app.jl"
+│ │    %25 = file isa Base.CoreLogging.String
+│ └───       goto #6 if not %25
+│ 5 ── %27 = Base.fixup_stdlib_path
+│ └───       file = (%27)(file)
+│ 6 ┄─       line = 21
+│ 7 ── %30 = $(Expr(:enter, #10))
+│ 8 ── %31 = Core.getfield(#self#, :__model__)
+│ │    %32 = Base.getproperty(%31, :url)
+│ │    %33 = Base.getindex(%32)
+│ │          msg = Base.string("Transcribing ", %33)
+│ │          kwargs = Core.NamedTuple()
+│ │          @_14 = true
+│ └───       $(Expr(:leave, 1))
+│ 9 ──       goto #12
+│ 10 ┄       $(Expr(:leave, 1))
+│ 11 ─       err = $(Expr(:the_exception))
+│ │          Base.invokelatest(Base.CoreLogging.logging_error, logger, level, _module, group, id, file, line, err, true)
+│ │          @_14 = false
+│ └───       $(Expr(:pop_exception, :(%30)))
+│ 12 ┄       goto #17 if not @_14
+│ 13 ─ %45 = Base.NamedTuple()
+│ │    %46 = Base.merge(%45, kwargs)
+│ │    %47 = Base.isempty(%46)
+│ └───       goto #15 if not %47
+│ 14 ─       Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger, level, msg, _module, group, id, file, line)
+│ └───       goto #16
+│ 15 ─       Core.kwcall(%46, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger, level, msg, _module, group, id, file, line)
+│ 16 ┄       goto #17
+│ 17 ┄       Base.CoreLogging.nothing
+│ │    %54 = true
+│ │    %55 = Core.getfield(#self#, :__model__)
+│ │    %56 = Base.getproperty(%55, :transcribing)
+│ │          Base.setindex!(%56, %54)
+│ │    %58 = Main.App.Transcriber.get_transcript_text_only
+│ │    %59 = Core.getfield(#self#, :__model__)
+│ │    %60 = Base.getproperty(%59, :url)
+│ │    %61 = Base.getindex(%60)
+│ │    %62 = (%58)(%61)
+│ │    %63 = Core.getfield(#self#, :__model__)
+│ │    %64 = Base.getproperty(%63, :transcription)
+│ │          Base.setindex!(%64, %62)
+│ │    %66 = Main.MyController.generate_example
+│ │    %67 = Core.getfield(#self#, :__model__)
+│ │    %68 = Base.getproperty(%67, :transcription)
+│ │    %69 = Base.getindex(%68)
+│ │    %70 = (%66)(%69)
+│ │    %71 = Main.App.raw(%70)
+│ │    %72 = Core.getfield(#self#, :__model__)
+│ │    %73 = Base.getproperty(%72, :transcription)
+│ │          Base.setindex!(%73, %71)
+│ │    %75 = false
+│ │    %76 = Core.getfield(#self#, :__model__)
+│ │    %77 = Base.getproperty(%76, :transcribing)
+│ │          Base.setindex!(%77, %75)
+│ └───       return %75
+│ )]
+│ 
+│   Type of argument:
+│   Bool
+│ 
+│   Value:
+│   true
+│ 
+│   Exception:
+│   UndefVarError(:raw)
+│ 
+│   exception = (UndefVarError(:raw), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007e52122c9564, Ptr{Nothing} @0x00007e5212263c57, Ptr{Nothing} @0x00007e51c8d45bf8, Ptr{Nothing} @0x00007e51c8d462e8, Ptr{Nothing} @0x00007e5212246f8d, Ptr{Nothing} @0x00007e5212257548, Ptr{Nothing} @0x00007e51c8d0171b, Ptr{Nothing} @0x00007e51c8d02179, Ptr{Nothing} @0x00007e51c8d021c5, Ptr{Nothing} @0x00007e5212246f8d, Ptr{Nothing} @0x00007e51c8d401f0, Ptr{Nothing} @0x00007e51c8d402bb, Ptr{Nothing} @0x00007e5212246f8d, Ptr{Nothing} @0x00007e51c8d3eb03, Ptr{Nothing} @0x00007e51c8d3edc2, Ptr{Nothing} @0x00007e5212246f8d, Ptr{Nothing} @0x00007e51c9157ca4, Ptr{Nothing} @0x00007e51c9158168, Ptr{Nothing} @0x00007e51c915821a, Ptr{Nothing} @0x00007e51c9158259, Ptr{Nothing} @0x00007e5212246f8d, Ptr{Nothing} @0x00007e51c914db1d, Ptr{Nothing} @0x00007e51c914db72, Ptr{Nothing} @0x00007e5212246f8d, Ptr{Nothing} @0x00007e5212257548, Ptr{Nothing} @0x00007e51ba6f580f, Ptr{Nothing} @0x00007e51ba770003, Ptr{Nothing} @0x00007e51c91499bd, Ptr{Nothing} @0x00007e51c914c8af, Ptr{Nothing} @0x00007e51c914ca05, Ptr{Nothing} @0x00007e5212246f8d, Ptr{Nothing} @0x00007e5212257548, Ptr{Nothing} @0x00007e51c9143869, Ptr{Nothing} @0x00007e51c914608f, Ptr{Nothing} @0x00007e51c91466e2, Ptr{Nothing} @0x00007e5212246f8d, Ptr{Nothing} @0x00007e521226a30f])
+└ @ Stipple /home/swojcik/.julia/packages/Stipple/UZmka/src/stipple/mutators.jl:54
+┌ Info: 2025-03-15 15:14:18 Calling finalizers
+└ @ Stipple /home/swojcik/.julia/packages/Stipple/UZmka/src/Stipple.jl:534
+┌ Info: 2025-03-15 15:14:26 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /home/swojcik/.julia/packages/HTTP/4AUPl/src/Servers.jl:409
+┌ Info: 2025-03-15 15:14:50 Watching ["/home/swojcik/github/GenieOnHuggingFaceSpaces"]
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-03-15 15:14:51 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 15:14:53 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/swojcik/.julia/packages/Genie/VEhXJ/src/Server.jl:182
+┌ Info: 2025-03-15 15:14:53 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/swojcik/.julia/packages/HTTP/4AUPl/src/Servers.jl:382
+┌ Info: 2025-03-15 15:15:28 Transcribing jvrEfZUajTE
+└ @ Main.App /home/swojcik/github/GenieOnHuggingFaceSpaces/app.jl:21
+┌ Error: 2025-03-15 15:15:30 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for anonymous function "#10":
+│  [1] (::Main.App.var"#10#13")(...)
+│      @ ~/.julia/packages/Stipple/UZmka/src/ReactiveTools.jl:950
+│   Core.CodeInfo[CodeInfo(
+│ 1 ──       Core.NewvarNode(:(msg))
+│ │          Core.NewvarNode(:(kwargs))
+│ │          Core.NewvarNode(:(line))
+│ │          Core.NewvarNode(:(file))
+│ │          Core.NewvarNode(:(id))
+│ │          Core.NewvarNode(:(logger))
+│ │          Core.NewvarNode(:(_module))
+│ │          Core.NewvarNode(:(group))
+│ │          level = Base.CoreLogging.Info
+│ │          std_level = level
+│ │    %11 = std_level
+│ │    %12 = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %13 = %11 >= %12
+│ └───       goto #17 if not %13
+│ 2 ──       group = :app
+│ │          _module = Main.App
+│ │          logger = (Base.CoreLogging.current_logger_for_env)(std_level, group, _module)
+│ │    %18 = logger === Base.CoreLogging.nothing
+│ │    %19 = !%18
+│ └───       goto #17 if not %19
+│ 3 ──       id = :Main_App_b92f546e
+│ │    %22 = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger, level, _module, group, id)
+│ └───       goto #17 if not %22
+│ 4 ──       file = "/home/swojcik/github/GenieOnHuggingFaceSpaces/app.jl"
+│ │    %25 = file isa Base.CoreLogging.String
+│ └───       goto #6 if not %25
+│ 5 ── %27 = Base.fixup_stdlib_path
+│ └───       file = (%27)(file)
+│ 6 ┄─       line = 21
+│ 7 ── %30 = $(Expr(:enter, #10))
+│ 8 ── %31 = Core.getfield(#self#, :__model__)
+│ │    %32 = Base.getproperty(%31, :url)
+│ │    %33 = Base.getindex(%32)
+│ │          msg = Base.string("Transcribing ", %33)
+│ │          kwargs = Core.NamedTuple()
+│ │          @_14 = true
+│ └───       $(Expr(:leave, 1))
+│ 9 ──       goto #12
+│ 10 ┄       $(Expr(:leave, 1))
+│ 11 ─       err = $(Expr(:the_exception))
+│ │          Base.invokelatest(Base.CoreLogging.logging_error, logger, level, _module, group, id, file, line, err, true)
+│ │          @_14 = false
+│ └───       $(Expr(:pop_exception, :(%30)))
+│ 12 ┄       goto #17 if not @_14
+│ 13 ─ %45 = Base.NamedTuple()
+│ │    %46 = Base.merge(%45, kwargs)
+│ │    %47 = Base.isempty(%46)
+│ └───       goto #15 if not %47
+│ 14 ─       Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger, level, msg, _module, group, id, file, line)
+│ └───       goto #16
+│ 15 ─       Core.kwcall(%46, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger, level, msg, _module, group, id, file, line)
+│ 16 ┄       goto #17
+│ 17 ┄       Base.CoreLogging.nothing
+│ │    %54 = true
+│ │    %55 = Core.getfield(#self#, :__model__)
+│ │    %56 = Base.getproperty(%55, :transcribing)
+│ │          Base.setindex!(%56, %54)
+│ │    %58 = Main.App.Transcriber.get_transcript_text_only
+│ │    %59 = Core.getfield(#self#, :__model__)
+│ │    %60 = Base.getproperty(%59, :url)
+│ │    %61 = Base.getindex(%60)
+│ │    %62 = (%58)(%61)
+│ │    %63 = Core.getfield(#self#, :__model__)
+│ │    %64 = Base.getproperty(%63, :transcription)
+│ │          Base.setindex!(%64, %62)
+│ │    %66 = Base.getproperty(Main.App.MyController, :generate_example)
+│ │    %67 = Core.getfield(#self#, :__model__)
+│ │    %68 = Base.getproperty(%67, :transcription)
+│ │    %69 = Base.getindex(%68)
+│ │    %70 = (%66)(%69)
+│ │    %71 = Main.App.raw(%70)
+│ │    %72 = Core.getfield(#self#, :__model__)
+│ │    %73 = Base.getproperty(%72, :transcription)
+│ │          Base.setindex!(%73, %71)
+│ │    %75 = false
+│ │    %76 = Core.getfield(#self#, :__model__)
+│ │    %77 = Base.getproperty(%76, :transcribing)
+│ │          Base.setindex!(%77, %75)
+│ └───       return %75
+│ )]
+│ 
+│   Type of argument:
+│   Bool
+│ 
+│   Value:
+│   true
+│ 
+│   Exception:
+│   UndefVarError(:raw)
+│ 
+│   exception = (UndefVarError(:raw), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007c70920c9564, Ptr{Nothing} @0x00007c7092063c57, Ptr{Nothing} @0x00007c7048b16708, Ptr{Nothing} @0x00007c7048b16df8, Ptr{Nothing} @0x00007c7092046f8d, Ptr{Nothing} @0x00007c7092057548, Ptr{Nothing} @0x00007c7048b014fb, Ptr{Nothing} @0x00007c7048b01f59, Ptr{Nothing} @0x00007c7048b01fa5, Ptr{Nothing} @0x00007c7092046f8d, Ptr{Nothing} @0x00007c7049008c50, Ptr{Nothing} @0x00007c7049008d1b, Ptr{Nothing} @0x00007c7092046f8d, Ptr{Nothing} @0x00007c7049003493, Ptr{Nothing} @0x00007c7049003752, Ptr{Nothing} @0x00007c7092046f8d, Ptr{Nothing} @0x00007c7048f5d8d4, Ptr{Nothing} @0x00007c7048f5dd98, Ptr{Nothing} @0x00007c7048f5de4a, Ptr{Nothing} @0x00007c7048f5de89, Ptr{Nothing} @0x00007c7092046f8d, Ptr{Nothing} @0x00007c7048f5374d, Ptr{Nothing} @0x00007c7048f537a2, Ptr{Nothing} @0x00007c7092046f8d, Ptr{Nothing} @0x00007c7092057548, Ptr{Nothing} @0x00007c703a4f580f, Ptr{Nothing} @0x00007c703a570003, Ptr{Nothing} @0x00007c7048f4e6dd, Ptr{Nothing} @0x00007c7048f524df, Ptr{Nothing} @0x00007c7048f52635, Ptr{Nothing} @0x00007c7092046f8d, Ptr{Nothing} @0x00007c7092057548, Ptr{Nothing} @0x00007c7048f49499, Ptr{Nothing} @0x00007c7048f4bcbf, Ptr{Nothing} @0x00007c7048f4c312, Ptr{Nothing} @0x00007c7092046f8d, Ptr{Nothing} @0x00007c709206a30f])
+└ @ Stipple /home/swojcik/.julia/packages/Stipple/UZmka/src/stipple/mutators.jl:54
+┌ Info: 2025-03-15 15:16:22 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 15:16:22 Calling finalizers
+└ @ Stipple /home/swojcik/.julia/packages/Stipple/UZmka/src/Stipple.jl:534
+┌ Info: 2025-03-15 15:16:33 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /home/swojcik/.julia/packages/HTTP/4AUPl/src/Servers.jl:409
+┌ Info: 2025-03-15 15:16:37 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/swojcik/.julia/packages/Genie/VEhXJ/src/Server.jl:182
+┌ Info: 2025-03-15 15:16:37 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/swojcik/.julia/packages/HTTP/4AUPl/src/Servers.jl:382
+┌ Info: 2025-03-15 15:16:52 Calling finalizers
+└ @ Stipple /home/swojcik/.julia/packages/Stipple/UZmka/src/Stipple.jl:534
+┌ Info: 2025-03-15 15:16:57 Calling finalizers
+└ @ Stipple /home/swojcik/.julia/packages/Stipple/UZmka/src/Stipple.jl:534
+┌ Info: 2025-03-15 15:17:06 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /home/swojcik/.julia/packages/HTTP/4AUPl/src/Servers.jl:409
+┌ Info: 2025-03-15 15:17:30 Watching ["/home/swojcik/github/GenieOnHuggingFaceSpaces"]
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-03-15 15:17:32 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 15:17:33 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/swojcik/.julia/packages/Genie/VEhXJ/src/Server.jl:182
+┌ Info: 2025-03-15 15:17:33 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/swojcik/.julia/packages/HTTP/4AUPl/src/Servers.jl:382
+┌ Info: 2025-03-15 15:18:11 Transcribing jvrEfZUajTE
+└ @ Main.App /home/swojcik/github/GenieOnHuggingFaceSpaces/app.jl:21
+┌ Info: 2025-03-15 15:28:54 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 15:28:54 Calling finalizers
+└ @ Stipple /home/swojcik/.julia/packages/Stipple/UZmka/src/Stipple.jl:534
+┌ Info: 2025-03-15 15:29:57 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /home/swojcik/.julia/packages/HTTP/4AUPl/src/Servers.jl:409
+┌ Info: 2025-03-15 15:30:14 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 15:30:34 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/swojcik/.julia/packages/Genie/VEhXJ/src/Server.jl:182
+┌ Info: 2025-03-15 15:30:34 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/swojcik/.julia/packages/HTTP/4AUPl/src/Servers.jl:382
+┌ Info: 2025-03-15 15:30:54 Transcribing jvrEfZUajTE
+└ @ Main.App /home/swojcik/github/GenieOnHuggingFaceSpaces/app.jl:21
+┌ Error: 2025-03-15 15:30:56 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for anonymous function "#114":
+│  [1] (::Main.App.var"#114#117")(...)
+│      @ ~/.julia/packages/Stipple/UZmka/src/ReactiveTools.jl:950
+│   Core.CodeInfo[CodeInfo(
+│ 1 ──       Core.NewvarNode(:(msg))
+│ │          Core.NewvarNode(:(kwargs))
+│ │          Core.NewvarNode(:(line))
+│ │          Core.NewvarNode(:(file))
+│ │          Core.NewvarNode(:(id))
+│ │          Core.NewvarNode(:(logger))
+│ │          Core.NewvarNode(:(_module))
+│ │          Core.NewvarNode(:(group))
+│ │          level = Base.CoreLogging.Info
+│ │          std_level = level
+│ │    %11 = std_level
+│ │    %12 = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %13 = %11 >= %12
+│ └───       goto #17 if not %13
+│ 2 ──       group = :app
+│ │          _module = Main.App
+│ │          logger = (Base.CoreLogging.current_logger_for_env)(std_level, group, _module)
+│ │    %18 = logger === Base.CoreLogging.nothing
+│ │    %19 = !%18
+│ └───       goto #17 if not %19
+│ 3 ──       id = :Main_App_b92f5471
+│ │    %22 = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger, level, _module, group, id)
+│ └───       goto #17 if not %22
+│ 4 ──       file = "/home/swojcik/github/GenieOnHuggingFaceSpaces/app.jl"
+│ │    %25 = file isa Base.CoreLogging.String
+│ └───       goto #6 if not %25
+│ 5 ── %27 = Base.fixup_stdlib_path
+│ └───       file = (%27)(file)
+│ 6 ┄─       line = 21
+│ 7 ── %30 = $(Expr(:enter, #10))
+│ 8 ── %31 = Core.getfield(#self#, :__model__)
+│ │    %32 = Base.getproperty(%31, :url)
+│ │    %33 = Base.getindex(%32)
+│ │          msg = Base.string("Transcribing ", %33)
+│ │          kwargs = Core.NamedTuple()
+│ │          @_14 = true
+│ └───       $(Expr(:leave, 1))
+│ 9 ──       goto #12
+│ 10 ┄       $(Expr(:leave, 1))
+│ 11 ─       err = $(Expr(:the_exception))
+│ │          Base.invokelatest(Base.CoreLogging.logging_error, logger, level, _module, group, id, file, line, err, true)
+│ │          @_14 = false
+│ └───       $(Expr(:pop_exception, :(%30)))
+│ 12 ┄       goto #17 if not @_14
+│ 13 ─ %45 = Base.NamedTuple()
+│ │    %46 = Base.merge(%45, kwargs)
+│ │    %47 = Base.isempty(%46)
+│ └───       goto #15 if not %47
+│ 14 ─       Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger, level, msg, _module, group, id, file, line)
+│ └───       goto #16
+│ 15 ─       Core.kwcall(%46, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger, level, msg, _module, group, id, file, line)
+│ 16 ┄       goto #17
+│ 17 ┄       Base.CoreLogging.nothing
+│ │    %54 = true
+│ │    %55 = Core.getfield(#self#, :__model__)
+│ │    %56 = Base.getproperty(%55, :transcribing)
+│ │          Base.setindex!(%56, %54)
+│ │    %58 = Main.App.Transcriber.get_transcript_text_only
+│ │    %59 = Core.getfield(#self#, :__model__)
+│ │    %60 = Base.getproperty(%59, :url)
+│ │    %61 = Base.getindex(%60)
+│ │    %62 = (%58)(%61)
+│ │    %63 = Core.getfield(#self#, :__model__)
+│ │    %64 = Base.getproperty(%63, :transcription)
+│ │          Base.setindex!(%64, %62)
+│ │    %66 = Base.getproperty(Main.App.MyController, :generate_example)
+│ │    %67 = Core.getfield(#self#, :__model__)
+│ │    %68 = Base.getproperty(%67, :transcription)
+│ │    %69 = Base.getindex(%68)
+│ │    %70 = (%66)(%69)
+│ │    %71 = Main.App.raw(%70)
+│ │    %72 = Core.getfield(#self#, :__model__)
+│ │    %73 = Base.getproperty(%72, :transcription)
+│ │          Base.setindex!(%73, %71)
+│ │    %75 = false
+│ │    %76 = Core.getfield(#self#, :__model__)
+│ │    %77 = Base.getproperty(%76, :transcribing)
+│ │          Base.setindex!(%77, %75)
+│ └───       return %75
+│ )]
+│ 
+│   Type of argument:
+│   Bool
+│ 
+│   Value:
+│   false
+│ 
+│   Exception:
+│   UndefVarError(:raw)
+│ 
+│   exception = (UndefVarError(:raw), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x000072a24b2c9564, Ptr{Nothing} @0x000072a24b263c57, Ptr{Nothing} @0x000072a201c939d8, Ptr{Nothing} @0x000072a201c940c8, Ptr{Nothing} @0x000072a24b246f8d, Ptr{Nothing} @0x000072a24b257548, Ptr{Nothing} @0x000072a201c00cab, Ptr{Nothing} @0x000072a201c01709, Ptr{Nothing} @0x000072a201c01755, Ptr{Nothing} @0x000072a24b246f8d, Ptr{Nothing} @0x000072a201c89090, Ptr{Nothing} @0x000072a201c8915b, Ptr{Nothing} @0x000072a24b246f8d, Ptr{Nothing} @0x000072a201c879a3, Ptr{Nothing} @0x000072a201c87c62, Ptr{Nothing} @0x000072a24b246f8d, Ptr{Nothing} @0x000072a201d549a4, Ptr{Nothing} @0x000072a201d54e68, Ptr{Nothing} @0x000072a201d54f1a, Ptr{Nothing} @0x000072a201d54f59, Ptr{Nothing} @0x000072a24b246f8d, Ptr{Nothing} @0x000072a201d4a81d, Ptr{Nothing} @0x000072a201d4a872, Ptr{Nothing} @0x000072a24b246f8d, Ptr{Nothing} @0x000072a24b257548, Ptr{Nothing} @0x000072a1f36f580f, Ptr{Nothing} @0x000072a1f3770003, Ptr{Nothing} @0x000072a201d489cd, Ptr{Nothing} @0x000072a201d495af, Ptr{Nothing} @0x000072a201d49705, Ptr{Nothing} @0x000072a24b246f8d, Ptr{Nothing} @0x000072a24b257548, Ptr{Nothing} @0x000072a201d404ba, Ptr{Nothing} @0x000072a201d42d8f, Ptr{Nothing} @0x000072a201d433e2, Ptr{Nothing} @0x000072a24b246f8d, Ptr{Nothing} @0x000072a24b26a30f])
+└ @ Stipple /home/swojcik/.julia/packages/Stipple/UZmka/src/stipple/mutators.jl:54
+┌ Info: 2025-03-15 15:31:02 Downloading jvrEfZUajTE
+└ @ Main.App /home/swojcik/github/GenieOnHuggingFaceSpaces/app.jl:28
+┌ Info: 2025-03-15 15:31:05 Calling finalizers
+└ @ Stipple /home/swojcik/.julia/packages/Stipple/UZmka/src/Stipple.jl:534
+┌ Info: 2025-03-15 15:31:09 Calling finalizers
+└ @ Stipple /home/swojcik/.julia/packages/Stipple/UZmka/src/Stipple.jl:534
+┌ Info: 2025-03-15 15:31:15 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /home/swojcik/.julia/packages/HTTP/4AUPl/src/Servers.jl:409
+┌ Info: 2025-03-15 15:31:43 Watching ["/home/swojcik/github/GenieOnHuggingFaceSpaces"]
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-03-15 15:31:45 Autoreloading
+└ @ GenieAutoReload /home/swojcik/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-03-15 15:31:46 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/swojcik/.julia/packages/Genie/VEhXJ/src/Server.jl:182
+┌ Info: 2025-03-15 15:31:46 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/swojcik/.julia/packages/HTTP/4AUPl/src/Servers.jl:382
+┌ Info: 2025-03-15 15:32:12 Transcribing SW14tOda_kI
+└ @ Main.App /home/swojcik/github/GenieOnHuggingFaceSpaces/app.jl:21

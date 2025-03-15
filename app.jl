@@ -1,48 +1,55 @@
 module App
 using Main.MyController
+include("lib/Transcriber.jl")
+using .Transcriber
 using GenieFramework, PlotlyBase
 using Genie.Renderer.Html
+
+#using GenieFramework; Genie.loadapp(); up()
 
 @genietools
 
 @app begin
-    #reactive code goes here
+    @in process = false
+    @in url = "SW14tOda_kI"
+    @out transcription = ""
+    @in transcribe = false
+    @in download = false
+    @out transcribing = false
+    @out downloading = false
+    @onchange transcribe begin
+        @info "Transcribing $url"
+        transcribing = true
+        transcription = Transcriber.get_transcript_text_only(url)
+        transcription = MyController.generate_example(transcription)
+        transcribing = false
+    end
+    @onchange download begin
+        @info "Downloading $url"
+        downloading = true
+        ## TODO: download the transcription
+        downloading = false
+    end
 end
 
 function ui()
-    p("This is some text") #initialized to an empty paragraph
+    [
+        h2("Youtube video Fact-Checker")
+        input("url", :url, style="width:500px")
+        # button("Transcribe", @click("process = !process"))
+        button("Transcribe", @click("transcribing = true"), loading=:transcribing)
+        button("Download", @click("download = !download; downloading=true"), loading=:downloading)
+        h4("Transcription:")
+        p("{{transcription}}")
+    ]
 end
 
-function root_ui()
-    p("Welcome to the root page!")
-end
-
-@page("/", root_ui)
+@page("/", "app.jl.html")
 
 # Example route that uses gradient text
 route("/gradient") do
-  colors = ["#FF0000", "#FF7F00", "#FFFF00", "#00FF00", "#0000FF", "#4B0082", "#9400D3"]
-  gradient_message = MyController.gradient_text("Welcome to Genie.jl with Rainbow Text!", colors)
-  
-  html("""
-  <!DOCTYPE html>
-  <html>
-  <head>
-      <title>Gradient Text Example</title>
-      <style>
-          body {
-              font-family: Arial, sans-serif;
-              font-size: 24px;
-              text-align: center;
-              margin-top: 100px;
-          }
-      </style>
-  </head>
-  <body>
-      <div>$(gradient_message)</div>
-  </body>
-  </html>
-  """)
+    message = "this is a message"
+   gradient_message = MyController.generate_example(message)
 end
 
 end
